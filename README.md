@@ -19,6 +19,7 @@ Submitted by,
 1. Project code
 2. Youtube link
 3. Dataset used
+4. PPT of the project
 
 ## Tools Used:
 1. Anaconda Navigator
