@@ -57,7 +57,7 @@ Dataset url: https://archive.ics.uci.edu/ml/datasets/parkinsons
 5. Finally using the XGBoost’s plot_importance() function we have found out that the feature MDVP.Fo(Hz) (i.e. Average vocal fundamental frequency) has the highest importance score among all the features.
 
 ## Future Scope:
-Though the model works efficiently, this is limited by the richness of the dataset with which it is being trained. The selected dataset, has only 197 instances, hence a dataset with more no of samples would help the model generalize better. The proposed model is thus a reliable model to detect Parkinson’s disease due to its efficient accuracy rates.
+Though the model works efficiently, this is limited by the richness of the dataset with which it is being trained. The selected dataset, has only 197 instances, hence a dataset with more number of samples would help the model generalize better. The proposed model is thus a reliable model to detect Parkinson’s disease due to its efficient accuracy rates.
 
 
 
