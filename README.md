@@ -2,6 +2,7 @@
 Minor project “Detecting Parkinson’s Disease” submitted in partial fulfilment of the requirements for the award of Bachelor of Technology (B.Tech) of Kaziranga University, Jorhat, Assam.
 
 External Mentor: Mr. Amit Shah
+
 Internal Mentor: Mrs. Mousoomi Borah (H.O.D CSE Department, KU)
 
 Submitted by,
