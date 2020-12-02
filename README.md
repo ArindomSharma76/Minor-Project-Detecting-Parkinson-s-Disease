@@ -1,4 +1,4 @@
-# Minor-Project-Detecting-Parkinson-s-Disease
+# Minor Project-Detecting Parkinson's Disease
 Minor project “Detecting Parkinson’s Disease” submitted in partial fulfilment of the requirements for the award of Bachelor of Technology (B.Tech) of Kaziranga University, Jorhat, Assam.
 
 External Mentor: Mr. Amit Shah (IBM)
@@ -19,6 +19,11 @@ Submitted by,
 1. Project code
 2. Youtube link
 3. Dataset used
+
+## Tools Used:
+1. Anaconda Navigator
+2. jupyter notebook
+3. Python programming language
 
 ## What is Parkinson’s Disease?
 Parkinson’s disease is a progressive disorder of the central nervous system. It is a type of movement disorder that can affect the ability to perform common, daily activities. It is a chronic and progressive disease, meaning that the symptoms become worse over time. It affects over 6 million patients worldwide and more than 1 million individuals every year in India. 
