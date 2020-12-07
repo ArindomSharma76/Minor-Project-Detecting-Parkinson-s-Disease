@@ -17,6 +17,8 @@ Submitted by,
 5. Jili Tali (ET18BTHEE017L)
 
 ## Youtube link: https://youtu.be/Kr6Mk3LuplA
+[![IMAGE ALT TEXT HERE](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1802).png)](https://youtu.be/Kr6Mk3LuplA)
+
 
 ## Contents in Repository:
 1. Project code
