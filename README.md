@@ -16,8 +16,8 @@ Submitted by,
 4. Popee Borah (ET18BTHEC011L)
 5. Jili Tali (ET18BTHEE017L)
 
-## Youtube link: https://youtu.be/Kr6Mk3LuplA
-[![IMAGE ALT TEXT HERE](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1802).png)](https://youtu.be/Kr6Mk3LuplA)
+## Youtube link:
+[![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1803).png)](https://youtu.be/Kr6Mk3LuplA)
 
 
 ## Contents in Repository:
