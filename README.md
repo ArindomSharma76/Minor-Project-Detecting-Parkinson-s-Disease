@@ -18,7 +18,7 @@ Submitted by,
 
 ## Youtube link: https://youtu.be/Kr6Mk3LuplA    
 ### or Click on the image below to watch the youtube video:
-[![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1804).png)](https://youtu.be/Kr6Mk3LuplA)
+[![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1803).png)](https://youtu.be/Kr6Mk3LuplA)
 
 
 ## Contents in Repository:
