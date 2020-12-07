@@ -16,7 +16,7 @@ Submitted by,
 4. Popee Borah (ET18BTHEC011L)
 5. Jili Tali (ET18BTHEE017L)
 
-## Youtube link:
+## Youtube link: CLICK ON THE IMAGE BELOW TO WATCH THE YOUTUBE VIDEO
 [![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1803).png)](https://youtu.be/Kr6Mk3LuplA)
 
 
