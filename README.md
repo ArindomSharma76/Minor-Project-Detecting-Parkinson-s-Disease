@@ -50,6 +50,8 @@ The Data Set has been collected from UCI Machine learning Repository. This datas
 Dataset url: https://archive.ics.uci.edu/ml/datasets/parkinsons
 
 ## Workflow:
+![alt text](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1796).png)
+
 1.	Acquiring the dataset
 -	We have download the voice sample dataset from UCI Learning Repository and stored in our PC.
 2.	Read/Load the dataset
