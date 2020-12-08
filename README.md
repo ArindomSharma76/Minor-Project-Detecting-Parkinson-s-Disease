@@ -2,15 +2,15 @@
 ### Minor project “Detecting Parkinson’s Disease” submitted in partial fulfilment of the requirements for the award of Bachelor of Technology (B.Tech) of Kaziranga University, Jorhat, Assam.
 ![alt text](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/BLOG_Parkinson%E2%80%99s%20Test%20Recommendation%20Engine.jpg?raw=true)
 
-## Youtube link: https://youtu.be/Kr6Mk3LuplA    
-### or Click on the image below to watch the youtube video:
-[![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1806).png)](https://youtu.be/Kr6Mk3LuplA)
-
 ## Contents in Repository:
 1. Project code
 2. Youtube link
 3. Dataset used
 4. Project Report
+
+## Youtube link: https://youtu.be/Kr6Mk3LuplA    
+### or Click on the image below to watch the youtube video:
+[![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1806).png)](https://youtu.be/Kr6Mk3LuplA)
 
 ## What is Parkinson’s Disease?
 Parkinson’s disease is a progressive disorder of the central nervous system. It is a type of movement disorder that can affect the ability to perform common, daily activities. It is a chronic and progressive disease, meaning that the symptoms become worse over time. It affects over 6 million patients worldwide and more than 1 million individuals every year in India. 
@@ -68,13 +68,7 @@ Dataset url: https://archive.ics.uci.edu/ml/datasets/parkinsons
 ## Future Scope:
 Though the model works efficiently, this is limited by the richness of the dataset with which it is being trained. The selected dataset, has only 197 instances, hence a dataset with more number of samples would help the model generalize better. The proposed model is thus a reliable model to detect Parkinson’s disease due to its efficient accuracy rates.
 
-
-External Mentor: Mr. Amit Bhat (IBM) and
-                 Mr. Viqaruddin Surki (IBM)                                                                                                  
-
-Internal Mentor: Mrs. Mousoomi Borah (H.O.D CSE Department, KU)
-
-Submitted by,
+## Submitted by,
 
 1. Arindom Sharma (ET17BTHCS010)
 2. Amrit Kr. Baruah (ET17BTHCS007)
@@ -82,4 +76,8 @@ Submitted by,
 4. Popee Borah (ET18BTHEC011L)
 5. Jili Tali (ET18BTHEE017L)
 
+External Mentor: Mr. Amit Bhat (IBM) and
+                 Mr. Viqaruddin Surki (IBM)                                                                                                  
+
+Internal Mentor: Mrs. Mousoomi Borah (H.O.D CSE Department, KU)
 
