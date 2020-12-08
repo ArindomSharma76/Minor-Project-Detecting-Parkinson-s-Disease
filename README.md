@@ -6,6 +6,12 @@
 ### or Click on the image below to watch the youtube video:
 [![CLICK ON THE IMAGE TO WATCH THE YOUTUBE VIDEO](https://github.com/ArindomSharma76/Minor-Project-Detecting-Parkinson-s-Disease/blob/main/images/Screenshot%20(1806).png)](https://youtu.be/Kr6Mk3LuplA)
 
+## Contents in Repository:
+1. Project code
+2. Youtube link
+3. Dataset used
+4. Project Report
+
 ## What is Parkinson’s Disease?
 Parkinson’s disease is a progressive disorder of the central nervous system. It is a type of movement disorder that can affect the ability to perform common, daily activities. It is a chronic and progressive disease, meaning that the symptoms become worse over time. It affects over 6 million patients worldwide and more than 1 million individuals every year in India. 
 
@@ -18,12 +24,6 @@ We used the XGBoost algorithm. It is a new algorithm for Machine Learning develo
 ## DataSet used:
 The Data Set has been collected from UCI Machine learning Repository. This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD).
 Dataset url: https://archive.ics.uci.edu/ml/datasets/parkinsons
-
-## Contents in Repository:
-1. Project code
-2. Youtube link
-3. Dataset used
-4. Project Report
 
 ## Tools Used:
 1. Anaconda Navigator
