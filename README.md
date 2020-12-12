@@ -20,6 +20,7 @@ Internal Mentor: Mrs. Mousoomi Bora (H.O.D CSE Department, KU)
 2. Youtube link
 3. Dataset used
 4. Project Report
+5. Presentation
 
 ## Explanation video youtube link: https://youtu.be/Kr6Mk3LuplA    
 ### or Click on the image below to watch the youtube video:
